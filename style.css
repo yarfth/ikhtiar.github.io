@@ -1,0 +1,30 @@
+.tiar{
+    width: 200px;
+    border-radius: 50%;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.profile{
+    text-align: center;
+    background-color: bisque;
+    
+
+}
+
+.textbox{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.profile-date{
+    text-align: right;
+}
+
